@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "lightningskill",
+	"version": "${version}",
+	"name": "lightningskill",
+	"description": "Lightningskill is a Fabric mod that adds a lightning-themed weapon to Minecraft. Players can craft and use the Lightning Staff to summon lightning at targeted locations, bringing a simple but powerful combat ability with a distinct elemental style.",
+	"authors": [
+		"liukay"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/lightningskill/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"cn.liukay.Lightningskill"
+		],
+		"client": [
+			"cn.liukay.client.LightningskillClient"
+		],
+		"fabric-datagen": [
+			"cn.liukay.client.LightningskillDataGenerator"
+		]
+	},
+	"mixins": [
+		"lightningskill.mixins.json",
+		{
+			"config": "lightningskill.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.1",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

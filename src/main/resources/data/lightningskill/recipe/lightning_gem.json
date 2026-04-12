@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " D ",
+        " D "
+    ],
+    "key": {
+        "#": "minecraft:lightning_rod",
+        "D": "minecraft:diamond_block"
+    },
+    "result": {
+        "id": "lightningskill:lightning_gem",
+        "count": 1
+    }
+}
