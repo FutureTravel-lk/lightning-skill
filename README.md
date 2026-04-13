@@ -14,12 +14,12 @@
 
 #### 基础属性
 
-| 属性     | 数值         |
-| -------- | ------------ |
-| 耐久度   | 455          |
-| 挖掘效率 | 5.0          |
-| 攻击速度 | 1.5          |
-| 附魔能力 | 22           |
+| 属性   | 数值     |
+|------|--------|
+| 耐久度  | 455    |
+| 挖掘效率 | 5.0    |
+| 攻击速度 | 1.5    |
+| 附魔能力 | 22     |
 | 工具材料 | 下界合金级别 |
 
 #### 核心功能
@@ -46,10 +46,10 @@
 
 ### 材料需求
 
-| 材料                   | 数量 |
-| ---------------------- | ---- |
-| 避雷针 (Lightning Rod) | 1    |
-| 钻石块 (Diamond Block) | 2    |
+| 材料                  | 数量 |
+|---------------------|----|
+| 避雷针 (Lightning Rod) | 1  |
+| 钻石块 (Diamond Block) | 2  |
 
 ### 合成配方图示
 
@@ -61,7 +61,7 @@
 
 闪电法杖可以使用**钻石**或**自身**作为修复材料。
 
-玩家可以将损坏的闪电法杖与钻石在**铁砧**中进行修复。
+玩家可以将损坏的闪电法杖与**钻石**在**铁砧**中进行修复。
 
 > 修复标签：`lightningskill:repairs_lightning_gem`
 
@@ -74,7 +74,7 @@
 当玩家使用闪电法杖攻击生物时，闪电将在目标位置立即劈下：
 
 <div align="center">
-  <img src="./assets/gif/left_click_attack.gif" alt="左键攻击效果" width="400">
+  <img src="./assets/gif/left_click_attack.gif" alt="左键攻击效果" width="450">
 </div>
 
 ### 右键点击效果
@@ -82,7 +82,7 @@
 当玩家对远处位置右键点击时，闪电将在指定位置召唤：
 
 <div align="center">
-  <img src="./assets/gif/right_click_use.gif" alt="右键点击效果" width="400">
+  <img src="./assets/gif/right_click_use.gif" alt="右键点击效果" width="450">
 </div>
 
 ---
@@ -90,7 +90,7 @@
 ## 物品展示
 
 <div align="center">
-  <img src="./assets/gif/lightning_staff.gif" alt="闪电法杖展示" width="400">
+  <img src="./assets/gif/lightning_staff.gif" alt="闪电法杖展示" width="450">
 </div>
 
 ## 模组信息
