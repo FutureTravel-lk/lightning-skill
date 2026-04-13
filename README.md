@@ -54,7 +54,7 @@
 ### 合成配方图示
 
 <div align="center">
-  <img src="./assets/img/crafting-grid.png" alt="闪电法杖合成配方" width="330">
+  <img src="./assets/img/crafting-grid.png" alt="闪电法杖合成配方" width="400">
 </div>
 
 ## 修复材料
@@ -74,7 +74,7 @@
 当玩家使用闪电法杖攻击生物时，闪电将在目标位置立即劈下：
 
 <div align="center">
-  <img src="./assets/gif/left_click_attack.gif" alt="左键攻击效果" width="330">
+  <img src="./assets/gif/left_click_attack.gif" alt="左键攻击效果" width="400">
 </div>
 
 ### 右键点击效果
@@ -82,7 +82,7 @@
 当玩家对远处位置右键点击时，闪电将在指定位置召唤：
 
 <div align="center">
-  <img src="./assets/gif/right_click_use.gif" alt="右键点击效果" width="330">
+  <img src="./assets/gif/right_click_use.gif" alt="右键点击效果" width="400">
 </div>
 
 ---
@@ -90,7 +90,7 @@
 ## 物品展示
 
 <div align="center">
-  <img src="./assets/gif/lightning_staff.gif" alt="闪电法杖展示" width="330">
+  <img src="./assets/gif/lightning_staff.gif" alt="闪电法杖展示" width="400">
 </div>
 
 ## 模组信息
